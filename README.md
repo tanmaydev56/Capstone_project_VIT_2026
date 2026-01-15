@@ -1,6 +1,5 @@
-[﻿# Capstone_project_2026
-# Capstone_project_2026
-# CapstoneProject_2026
+
 # Capstone_project_VIT_2026
 
 ](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
+
